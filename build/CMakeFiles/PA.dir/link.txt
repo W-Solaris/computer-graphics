@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g2 -ggdb -fopenmp  -rdynamic CMakeFiles/PA.dir/src/image.cpp.o CMakeFiles/PA.dir/src/main.cpp.o CMakeFiles/PA.dir/src/mesh.cpp.o CMakeFiles/PA.dir/src/scene_parser.cpp.o CMakeFiles/PA.dir/src/texture.cpp.o  -o ../bin/PA  deps/vecmath/libvecmath.a 

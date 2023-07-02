@@ -1,0 +1,6 @@
+/home/wucunhao/Graphics/computer-graphics/build/CMakeFiles/rebuild_cache.dir
+/home/wucunhao/Graphics/computer-graphics/build/CMakeFiles/edit_cache.dir
+/home/wucunhao/Graphics/computer-graphics/build/CMakeFiles/PA.dir
+/home/wucunhao/Graphics/computer-graphics/build/deps/vecmath/CMakeFiles/rebuild_cache.dir
+/home/wucunhao/Graphics/computer-graphics/build/deps/vecmath/CMakeFiles/edit_cache.dir
+/home/wucunhao/Graphics/computer-graphics/build/deps/vecmath/CMakeFiles/vecmath.dir
